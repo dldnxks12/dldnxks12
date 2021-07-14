@@ -10,11 +10,12 @@
 
 ## **✏️ Research Interests**
 
-- **Computer Vision**
+🔹 **Computer Vision**
   - Object Detection
   - Segmentation
-- **Deep Learning - CNN**
-- **IoT**
+🔹 **Deep Learning**
+  - CNN
+🔹 **IoT**
 
 
 ## Contact
