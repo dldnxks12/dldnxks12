@@ -13,8 +13,10 @@
 🔹 **Computer Vision**
   - Object Detection
   - Segmentation
+  
 🔹 **Deep Learning**
   - CNN
+  
 🔹 **IoT**
 
 
