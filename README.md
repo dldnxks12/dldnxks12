@@ -18,6 +18,9 @@
   - CNN
   
 🔹 **IoT**
+  - Raspberry Pi
+  - Arduino
+  - Atmega128
 
 
 ## Contact
