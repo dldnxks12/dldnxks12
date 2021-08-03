@@ -7,6 +7,12 @@
 
 **School of Robotics**
 
+## 💡 Languages
+
+- Python      ⭐⭐⭐
+- C/C++       ⭐⭐⭐
+- MATLAB      ⭐⭐
+- Java        ⭐
 
 ## **✏️ Research Interests**
 
