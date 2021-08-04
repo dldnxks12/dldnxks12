@@ -9,10 +9,10 @@
 
 ## 💡 Languages
 
-- Python      ⭐⭐⭐
-- C/C++       ⭐⭐⭐
-- MATLAB      ⭐⭐
-- Java        ⭐
+- Python      🍑🍑🍑
+- C/C++       🍑🍑🍑
+- MATLAB      🍑🍑
+- Java        🍑
 
 ## **✏️ Research Interests**
 
