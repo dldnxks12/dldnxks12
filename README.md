@@ -38,4 +38,6 @@
 
 - dldnxks12 @naver.com
 
-Notion : https://www.notion.so/24972913/Lee-Jong-Soo-9fc0f3e345104d69a49006082b8af375
+                * more Info about me !
+
+                Notion : https://www.notion.so/24972913/Lee-Jong-Soo-9fc0f3e345104d69a49006082b8af375
