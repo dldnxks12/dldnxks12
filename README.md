@@ -3,30 +3,30 @@
 
 ## 🏃🏻‍♂️ Education
 
-☀️ **B.S in KwangWoon Univ. Seoul , Korea** 
+☀ **B.S in KwangWoon Univ. Seoul , Korea** 
 
 **School of Robotics**
 
 ## 💡 Languages
 
-- Python      🍑🍑🍑
-- C/C++       🍑🍑🍑
-- MATLAB      🍑🍑
-- Java        🍑
+        - Python      🍑🍑🍑
+        - C/C++       🍑🍑🍑
+        - MATLAB      🍑🍑
+        - Java        🍑
 
 ## **✏️ Research Interests**
 
 🔹 **Computer Vision**
-  - Object Detection
-  - Segmentation
+        - Object Detection
+        - Segmentation
   
 🔹 **Deep Learning**
-  - CNN
-  
+        - CNN
+        - Segmentation
 🔹 **IoT**
-  - Raspberry Pi
-  - Arduino
-  - Atmega128
+        - Raspberry Pi
+        - Arduino
+        - Atmega128
 
 
 ## Contact
