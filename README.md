@@ -23,7 +23,7 @@
   
 🔹 **Deep Learning**
 
-        - CNN
+        - Classification
         - Segmentation
 🔹 **IoT**
 
