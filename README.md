@@ -3,7 +3,7 @@
 
 ## 🏃🏻‍♂️ Education
 
-☀ **B.S in KwangWoon Univ. Seoul , Korea** 
+**B.S in KwangWoon Univ. Seoul , Korea** 
 
 **School of Robotics**
 
@@ -17,13 +17,16 @@
 ## **✏️ Research Interests**
 
 🔹 **Computer Vision**
+
         - Object Detection
         - Segmentation
   
 🔹 **Deep Learning**
+
         - CNN
         - Segmentation
 🔹 **IoT**
+
         - Raspberry Pi
         - Arduino
         - Atmega128
