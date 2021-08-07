@@ -36,7 +36,7 @@
 
 ### 🌍 E-mail
 
-- dldnxks12 @naver.com
+- dldnxks12@naver.com
 
 #### More Info about me !
 
