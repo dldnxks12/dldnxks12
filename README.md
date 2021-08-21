@@ -1,19 +1,6 @@
 
 ### 개인적으로 공부하는 SW 지식들을 모두모두 기록하는 공간입니다 !
 
-## 🏃🏻‍♂️ Education
-
-**B.S in KwangWoon Univ. Seoul , Korea** 
-
-**School of Robotics**
-
-## 💡 Languages
-
-        - Python      🍑🍑🍑
-        - C/C++       🍑🍑🍑
-        - MATLAB      🍑🍑
-        - Java        🍑
-
 ## **✏️ Research Interests**
 
 🔹 **Computer Vision**
@@ -33,6 +20,12 @@
         - Arduino
         - Atmega128
 
+## 💡 Languages
+
+        - Python      🍑🍑🍑
+        - C/C++       🍑🍑🍑
+        - MATLAB      🍑🍑
+        - Java        🍑
 
 ## Contact
 
