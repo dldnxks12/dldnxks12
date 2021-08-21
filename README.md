@@ -19,7 +19,7 @@
 🔹 **Computer Vision**
 
         - Object Detection
-        - Segmentation
+        - Object Tracking
   
 🔹 **Deep Learning**
 
