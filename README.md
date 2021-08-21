@@ -23,8 +23,10 @@
   
 🔹 **Deep Learning**
 
-        - Classification
+        - Modern CNN (Classification)
+        - Object Detection
         - Segmentation
+        
 🔹 **IoT**
 
         - Raspberry Pi
