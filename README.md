@@ -5,7 +5,7 @@
   
 🔹 **A.I**
 
-        - Datascience
+        - Data science
         - Deep Learning
         - Machine Learning
         - Reinforcement Learning
