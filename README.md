@@ -17,12 +17,19 @@
         - Robot Navigation
         - Robot Kinematics
         - Automatic Control       
+       
+🔹 **OS**
+
+        - Linux
+        - ROS
         
 🔹 **IoT**
 
         - Raspberry Pi
         - Arduino
         - Atmega128
+       
+        
 
 ## 💡 Languages
 
