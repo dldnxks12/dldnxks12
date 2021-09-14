@@ -1,18 +1,22 @@
 
-### 개인적으로 공부하는 SW 지식들을 모두모두 기록하는 공간입니다 !
+#### 개인적으로 공부하는 지식들을 모두 기록하는 공간입니다 :)
 
 ## **✏️ Research Interests**
-
-🔹 **Computer Vision**
-
-        - Object Detection
-        - Object Tracking
   
-🔹 **Deep Learning**
+🔹 **A.I**
 
-        - Modern CNN (Classification)
-        - Object Detection
-        - Segmentation
+        - Datascience
+        - Deep Learning
+        - Machine Learning
+        - Reinforcement Learning
+        
+🔹 **Robotics**        
+        
+        - Motor Control
+        - Robot Control         
+        - Robot Navigation
+        - Robot Kinematics
+        - Automatic Control       
         
 🔹 **IoT**
 
@@ -22,10 +26,10 @@
 
 ## 💡 Languages
 
-        - Python      🍑🍑🍑
-        - C/C++       🍑🍑🍑
-        - MATLAB      🍑🍑
-        - Java        🍑
+         Python      🍑🍑🍑
+         C/C++       🍑🍑🍑
+         MATLAB      🍑🍑
+         Java        🍑
 
 ## Contact
 
