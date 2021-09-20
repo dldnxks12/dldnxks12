@@ -12,6 +12,7 @@
         
 🔹 **Robotics**        
         
+        - Dynamics
         - Motor Control
         - Robot Control         
         - Robot Navigation
