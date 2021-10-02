@@ -12,6 +12,7 @@
         
 🔹 **Robotics**        
         
+        - Circuits
         - Dynamics
         - Motor Control
         - Robot Control         
