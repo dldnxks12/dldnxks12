@@ -1,7 +1,7 @@
 
 #### 공부해 온 지식들을 정리하는 공간입니다 :D
 
-## **✏️ Study List**
+### **✏️ Study List**
   
 🔹 **A.I**
 
@@ -33,16 +33,16 @@
        
         
 
-## 💡 Languages
+### 💡 Languages
 
          Python      🍑🍑🍑
          C/C++       🍑🍑🍑
          MATLAB      🍑🍑
          Java        🍑
 
-## Contact
+### Contact
 
-### 🌍 E-mail
+#### 🌍 E-mail
 
 - dldnxks12@naver.com
 
