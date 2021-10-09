@@ -8,7 +8,7 @@
         - Data science
         - Deep Learning
         - Machine Learning
-        - Reinforcement Learning
+        - Reinforcement Learning 🍑
         
 🔹 **Robotics**        
         
