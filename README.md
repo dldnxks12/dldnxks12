@@ -13,12 +13,16 @@
 🔹 **Robotics**        
         
         - Circuits
-        - Dynamics
+        - Dynamics        
         - Motor Control
         - Robot Control         
         - Robot Navigation
         - Robot Kinematics
         - Automatic Control       
+        
+        - Signals/Systems
+        
+        
        
 🔹 **OS**
 
