@@ -18,10 +18,7 @@
         - Robot Control         
         - Robot Navigation
         - Robot Kinematics
-        - Automatic Control       
-        
-        - Signals/Systems
-        
+        - Automatic Control             
         
        
 🔹 **OS**
