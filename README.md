@@ -21,6 +21,7 @@
         - Robot Navigation
         - Robot Kinematics
         - Automatic Control             
+        - Microprocessor : Atmega128
         
        
 🔹 **OS**
