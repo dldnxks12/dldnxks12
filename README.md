@@ -16,13 +16,18 @@
 🔹 **Robotics**        
         
         - Circuits
-        - Dynamics        
-        - Motor Control
+        - Dynamics                
         - Robot Control         
         - Robot Navigation
         - Robot Kinematics
         - Automatic Control             
+        - Robotics Experiment 
         - Microprocessor : Atmega128
+        
+        # Todo 
+        - Actuator
+        - Motor Control        
+        - Control System 
         
        
 🔹 **OS**
