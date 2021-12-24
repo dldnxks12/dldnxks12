@@ -17,7 +17,9 @@
         
         - Circuits
         - Dynamics                
-        - Robot Control         
+        - Robot Control   
+        - Motor Control    ~ing      
+        - Control System   ~ing
         - Robot Navigation
         - Robot Kinematics
         - Automatic Control             
@@ -26,8 +28,6 @@
         
         # Todo 
         - Actuator
-        - Motor Control        
-        - Control System 
         
        
 🔹 **OS**
