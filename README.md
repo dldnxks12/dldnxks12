@@ -11,7 +11,9 @@
         - Data science
         - Deep Learning
         - Machine Learning
-        - Reinforcement Learning 🍑
+        - Reinforcement Learning #1 🍑
+        - Reinforcement Learning #2 🍑🍑
+        
         
 🔹 **Robotics**        
         
