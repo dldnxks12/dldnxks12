@@ -20,8 +20,6 @@
         - Circuits
         - Dynamics                
         - Robot Control   
-        - Motor Control    ~ing      
-        - Control System   ~ing
         - Robot Navigation
         - Robot Kinematics
         - Automatic Control             
@@ -30,7 +28,9 @@
         
         
         # Todo 
-        - Actuator
+          - Actuator
+          - Motor Control    
+          - Control System Design  
         
        
 🔹 **OS**
@@ -38,11 +38,13 @@
         - Linux
         - ROS
         
-🔹 **IoT**
+🔹 **Mathematics**
 
-        - Raspberry Pi
-        - Arduino
-        - Atmega128
+        - Linear Algebra
+        - Calculus 
+        
+        # Todo 
+          - Probability and Statistics
        
         
 
