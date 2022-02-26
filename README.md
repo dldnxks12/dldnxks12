@@ -54,8 +54,6 @@
          Python      🍑🍑🍑
          C/C++       🍑🍑🍑
          MATLAB      🍑🍑
-         Java        🍑
-
 
 ---
 
