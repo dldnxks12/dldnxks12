@@ -1,6 +1,7 @@
 #### 공부해 온 지식들을 정리하는 공간입니다 :D
 
-`CV` : [Click 🍑](https://www.notion.so/24972913/Lee-Jong-Soo-9fc0f3e345104d69a49006082b8af375)   
+`CV`       : [Click 🍑]()
+`Notion`   : [Click 🍑](https://www.notion.so/24972913/Lee-Jong-Soo-9fc0f3e345104d69a49006082b8af375)   
 `Git blog` : [Click 🍑](https://dldnxks12.github.io)
 
 ---
