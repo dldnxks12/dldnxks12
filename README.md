@@ -1,6 +1,5 @@
 #### 공부해 온 지식들을 정리하는 공간입니다 :D
 
-`CV`       : [Click 🍑](https://github.com/dldnxks12/dldnxks12/blob/main/CV.pdf)    
 `Git blog` : [Click 🍑](https://dldnxks12.github.io)
 
 ---
