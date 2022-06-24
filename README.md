@@ -36,7 +36,7 @@
 🔹 **OS**
 
         - Linux
-        - ROS  ~ing
+        - ROS
         
 🔹 **Mathematics**
 
