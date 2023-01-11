@@ -4,7 +4,32 @@
 
 ---
 
-### **✏️ Study List**
+### **✏️ Study List  [Current]**
+
+🔹 **A.I**
+
+        # Todo        
+          - Reinforcement Learning #1 - Back 
+          - Reinforcement Learning #2 - Cocel
+        
+        
+🔹 **Robotics**        
+                
+        # Todo 
+          - Actuator
+          - Motor Control    
+          - Control System Design  
+
+🔹 **Mathematics**
+
+        # Todo 
+          - Linear Algebra
+          - Calculus 
+          - Probability and Statistics
+          
+<br>        
+
+### **✏️ Study List  [Past]**
   
 🔹 **A.I**
 
@@ -24,14 +49,7 @@
         - Robot Kinematics
         - Automatic Control             
         - Robotics Experiment 
-        - Microprocessor : Atmega128
-        
-        
-        # Todo 
-          - Actuator
-          - Motor Control    
-          - Control System Design  
-        
+        - Microprocessor : Atmega128              
        
 🔹 **OS**
 
@@ -43,11 +61,7 @@
         - Linear Algebra
         - Calculus 
         
-        # Todo 
-          - Probability and Statistics
        
-        
-
 ### 💡 Languages
 
          Python      🍑🍑🍑
