@@ -6,10 +6,14 @@
 
 ### **✏️ Study List  [Current]**
 
+🔹 **Project**
+        # Todo
+          - Control Inverted Quadruple Pendulum with Mujoco 
+
 🔹 **A.I**
 
         # Todo        
-          - Reinforcement Learning #1 - Back 
+          - Reinforcement Learning #1 - Baek 
           - Reinforcement Learning #2 - Cocel
         
         
