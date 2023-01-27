@@ -7,6 +7,7 @@
 ### **✏️ Study List  [Current]**
 
 🔹 **Project**
+
         # Todo
           - Control Inverted Quadruple Pendulum with Mujoco 
 
