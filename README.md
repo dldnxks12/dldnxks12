@@ -9,12 +9,14 @@
 🔹 **Project**
 
         # Todo
-          - Control Inverted Quadruple Pendulum with Mujoco 
+          - Control Inverted Quadruple Pendulum with Mujoco               
 
 🔹 **A.I**
 
-        # Todo        
+        # Done
           - Reinforcement Learning #1 - Baek 
+        
+        # Todo                  
           - Reinforcement Learning #2 - Cocel
         
         
