@@ -1,6 +1,6 @@
 <div align="center">
 
-[RL Road map 🍑](https://gitmind.com/app/docs/mnjzv7j0)        
+[Road map 🍑](https://gitmind.com/app/docs/mnjzv7j0)        
         
         
 
