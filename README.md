@@ -1,6 +1,8 @@
 <div align="center">
 
-[Road map 🍑](https://gitmind.com/app/docs/mnjzv7j0)        
+[🔥 RL baseline](https://gitmind.com/app/docs/mnjzv7j0)        
+[🔥 Advanced field](https://gitmind.com/app/docs/mdudfxwy)         
+[🔥 Graphical model](https://gitmind.com/app/docs/mi8yqnyr)  
         
         
 
